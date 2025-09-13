@@ -1,0 +1,3 @@
+package restorer
+
+// Chocolatey support
