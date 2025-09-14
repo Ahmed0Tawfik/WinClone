@@ -1,3 +1,0 @@
-package manifest
-
-// Manifest parsing

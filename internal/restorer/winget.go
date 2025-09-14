@@ -1,3 +1,0 @@
-package restorer
-
-// Winget integration

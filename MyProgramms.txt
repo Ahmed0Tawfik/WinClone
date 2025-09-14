@@ -1,0 +1,737 @@
+WinClone - Installed Programs List
+Generated on: 2025-01-14
+Total programs found: 339
+==================================================
+
+1. Armoury Crate Service (v6.1.18)
+
+2. Docker Desktop (v4.43.1)
+   Path: C:\Program Files\Docker\Docker
+
+3. Git (v2.47.1)
+   Path: C:\Program Files\Git\
+
+4. HWiNFO64 (v8.04)
+   Path: C:\Program Files\HWiNFO64\
+
+5. HxD Hex Editor 2.5 (v2.5)
+   Path: C:\Program Files\HxD\
+
+6. Microsoft SQL Server 2022 (64-bit)
+
+7. Microsoft SQL Server 2022 (64-bit)
+
+8. Microsoft 365 Apps for enterprise - en-us (v16.0.19127.20222)
+   Path: C:\Program Files\Microsoft Office
+
+9. PostgreSQL 17 (v17.2-3)
+   Path: C:\Program Files\PostgreSQL\17
+
+10. Riot Vanguard
+   Path: C:\Program Files\Riot Vanguard
+
+11. RISK: Global Domination
+   Path: C:\Steam\steamapps\common\RISK Global Domination
+
+12. One-armed robber
+   Path: C:\Steam\steamapps\common\One-armed robber
+
+13. System Informer (v3.2.25011.2103)
+   Path: C:\Program Files\SystemInformer\
+
+14. UPDF
+
+15. WinRAR 7.01 (64-bit) (v7.01.0)
+   Path: C:\Program Files\WinRAR
+
+16. ASUS Aac_NBDT HAL (v2.5.30.0)
+
+17. Microsoft .NET Runtime - 8.0.18 (x64) (v64.72.35889)
+
+18. Microsoft ASP.NET Core 9.0.7 Shared Framework (x64) (v9.0.7.25317)
+
+19. Microsoft .NET Host - 9.0.7 (x64) (v72.28.35968)
+
+20. Microsoft ASP.NET Core 8.0.18 Shared Framework (x64) (v8.0.18.25317)
+
+21. IIS Express Application Compatibility Database for x64
+
+22. AniMeVisionFont_STRIX_SCAR (v1.0.1)
+
+23. Microsoft .NET Runtime - 6.0.31 (x64) (v48.124.15198)
+
+24. ASUS Monitor Control (v1.0.2)
+
+25. Microsoft ASP.NET Core 9.0.7 Targeting Pack (x64) (v9.0.7.25317)
+
+26. SQL Server 2022 SQL Diagnostics (v16.0.1000.6)
+
+27. Microsoft ODBC Driver 17 for SQL Server (v17.10.6.1)
+
+28. Microsoft Windows Desktop Runtime - 8.0.6 (x64) (v64.24.15241)
+
+29. Microsoft.NET.Sdk.Maui.Manifest-8.0.100 (x64) (v8.0.3)
+
+30. Microsoft .NET SDK 9.0.302 (x64) from Visual Studio (v9.3.225.31907)
+
+31. SQL Server 2022 Shared Management Objects (v16.0.1000.6)
+
+32. SQL Server 2022 Database Engine Shared (v16.0.1000.6)
+
+33. ASUS Hotplug Controller (v2.0.0)
+
+34. Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64) (v72.0.35968)
+
+35. Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64) (v15.5.9207)
+
+36. Microsoft ASP.NET Core 8.0.6 Targeting Pack (x64) (v8.0.6.24269)
+
+37. Microsoft .NET Runtime - 9.0.7 (x64) (v72.28.35968)
+
+38. Microsoft .NET Host FX Resolver - 9.0.7 (x64) (v72.28.35968)
+
+39. Microsoft .NET Runtime - 7.0.20 (x64) (v56.80.15184)
+
+40. Microsoft.NET.Workload.Emscripten.net6.Manifest (x64) (v64.24.15173)
+
+41. Microsoft .NET Toolset 8.0.302 (x64) (v32.8.36482)
+
+42. Microsoft Windows Desktop Runtime - 8.0.18 (x64) (v64.72.35986)
+
+43. JetBrains ETW Host Service (x64) (v16.42.0)
+
+44. ROG Live Service (v3.0.26.0)
+
+45. Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64) (v64.136.23253)
+
+46. Python 3.13.2 Add to Path (64-bit) (v3.13.2150.0)
+
+47. SQL Server 2022 Shared Management Objects Extensions (v16.0.1000.6)
+
+48. Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030 (v11.0.61030)
+
+49. vs_communityx64msi (v17.14.36025)
+
+50. Aspire.Hosting.Sdk (x64) (v8.2.2.0)
+
+51. Microsoft Windows Desktop Runtime - 5.0.17 (x64) (v40.68.31219)
+
+52. Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64) (v72.0.35968)
+
+53. Microsoft Command Line Utilities 15 for SQL Server (v15.0.1300.359)
+
+54. Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211 (v14.44.35211)
+
+55. ASUS Ambient HAL (v5.7.0.0)
+
+56. Microsoft ASP.NET Core 8.0.6 Shared Framework (x64) (v8.0.6.24269)
+
+57. Microsoft Windows Desktop Targeting Pack - 8.0.18 (x64) (v64.72.35986)
+
+58. vs_minshellx64msi (v17.14.36301)
+
+59. Microsoft OLE DB Driver for SQL Server (v18.7.2.0)
+
+60. Microsoft.NET.Workload.Emscripten.Current.Manifest (x64) (v72.48.35778)
+
+61. Microsoft.NET.Sdk.tvOS.Manifest-8.0.100 (x64) (v17.0.8478)
+
+62. Microsoft Windows Desktop Runtime - 9.0.7 (x64) (v72.28.35985)
+
+63. Microsoft Windows Desktop Targeting Pack - 8.0.6 (x64) (v64.24.15241)
+
+64. Microsoft .NET Host FX Resolver - 8.0.6 (x64) (v64.24.15199)
+
+65. Microsoft .NET Host - 6.0.31 (x64) (v48.124.15198)
+
+66. Microsoft .NET Runtime - 5.0.17 (x64) (v40.68.31213)
+
+67. SQL Server 2022 DMF (v16.0.1000.6)
+
+68. vs_devenx64vmsi (v17.14.36015)
+
+69. Microsoft System CLR Types for SQL Server 2019 (v15.0.2000.5)
+
+70. Microsoft .NET Targeting Pack - 9.0.7 (x64) (v72.28.35968)
+
+71. Python 3.13.2 pip Bootstrap (64-bit) (v3.13.2150.0)
+
+72. Python 3.13.2 Executables (64-bit) (v3.13.2150.0)
+
+73. Scalar (v0.1.131.0)
+
+74. Microsoft SQL Server 2022 RsFx Driver (v16.0.1000.6)
+
+75. SQL Server 2022 Database Engine Services (v16.0.1000.6)
+
+76. SQL Server 2022 Common Files (v16.0.1000.6)
+
+77. Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64) (v18.5.9207)
+
+78. Python 3.13.2 Core Interpreter (64-bit) (v3.13.2150.0)
+
+79. Microsoft.NET.Sdk.iOS.Manifest-8.0.100 (x64) (v17.0.8478)
+
+80. VS JIT Debugger (v17.0.157.0)
+
+81. Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64) (v35.0.78)
+
+82. icecap_collection_x64 (v17.14.36015)
+
+83. Microsoft Visual Studio Installer (v4.0.1114.24339)
+   Path: "C:\Program Files (x86)\Microsoft Visual Studio\Installer"
+
+84. SQL Server 2022 Shared Management Objects (v16.0.1000.6)
+
+85. Microsoft Windows Desktop Runtime - 7.0.20 (x64) (v56.80.15245)
+
+86. DiagnosticsHub_CollectionService (v17.14.36230)
+
+87. Microsoft .NET AppHost Pack - 9.0.7 (x64) (v72.28.35968)
+
+88. SQL Server 2022 Connection Info (v16.0.1000.6)
+
+89. Python 3.13.2 Documentation (64-bit) (v3.13.2150.0)
+
+90. Python 3.13.2 Development Libraries (64-bit) (v3.13.2150.0)
+
+91. Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64) (v18.5.9207)
+
+92. Microsoft Analysis Services OLE DB Provider (v16.0.5143.0)
+
+93. SQL Server 2022 Batch Parser (v16.0.1000.6)
+
+94. Microsoft Web Deploy 4.0 (v10.0.8305)
+
+95. Microsoft .NET AppHost Pack - 8.0.6 (x64_arm64) (v64.24.15199)
+
+96. Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211 (v14.44.35211)
+
+97. Windows Subsystem for Linux (v2.6.1.0)
+
+98. SQL Server 2022 Common Files (v16.0.1000.6)
+
+99. Python 3.13.2 Standard Library (64-bit) (v3.13.2150.0)
+
+100. Microsoft .NET AppHost Pack - 8.0.6 (x64_x86) (v64.24.15199)
+
+101. Microsoft.NET.Sdk.MacCatalyst.Manifest-8.0.100 (x64) (v17.0.8478)
+
+102. Microsoft .NET Host FX Resolver - 5.0.17 (x64) (v40.68.31213)
+
+103. Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support (v16.0.31110)
+
+104. Office 16 Click-to-Run Licensing Component (v16.0.19029.20208)
+
+105. Office 16 Click-to-Run Extensibility Component (v16.0.19127.20154)
+
+106. Google Chrome (v140.0.7339.128)
+
+107. Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64) (v64.24.15199)
+
+108. SQL Server 2022 XEvent (v16.0.1000.6)
+
+109. Microsoft.NET.Workload.Emscripten.net8.Manifest (x64) (v72.48.35778)
+
+110. Microsoft .NET AppHost Pack - 8.0.6 (x64) (v64.24.15199)
+
+111. Microsoft.NET.Sdk.macOS.Manifest-8.0.100 (x64) (v14.0.8478)
+
+112. ASUS Aac_GmAcc HAL (v1.0.12.0)
+
+113. Microsoft .NET Host FX Resolver - 6.0.31 (x64) (v48.124.15198)
+
+114. Microsoft ASP.NET Core 8.0.18 Targeting Pack (x64) (v8.0.18.25317)
+
+115. SQL Server 2022 Shared Management Objects Extensions (v16.0.1000.6)
+
+116. IIS 10.0 Express (v10.0.08608)
+
+117. Microsoft .NET Toolset 9.0.302 (x64) (v36.9.42083)
+
+118. Oh My Posh (v24.17.1)
+
+119. Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64) (v64.24.15199)
+
+120. Microsoft .NET Targeting Pack - 8.0.6 (x64) (v64.24.15199)
+
+121. Microsoft .NET 8.0 Templates 8.0.302 (x64) (v32.9.36482)
+
+122. Microsoft .NET Standard Targeting Pack - 2.1.0 (x64) (v24.0.28113)
+
+123. Aura Wallpaper Service (v2.1.6.0)
+
+124. Microsoft Teams Meeting Add-in for Microsoft Office (v1.25.18302)
+
+125. Python 3.13.2 Tcl/Tk Support (64-bit) (v3.13.2150.0)
+
+126. Microsoft .NET 8.0 Templates 8.0.412 (x64) (v32.13.42477)
+
+127. Microsoft .NET AppHost Pack - 9.0.7 (x64_arm64) (v72.28.35968)
+
+128. Aspire.ProjectTemplates (x64) (v8.2.2.0)
+
+129. Microsoft VSS Writer for SQL Server 2022 (v16.0.1000.6)
+
+130. IIS Express Application Compatibility Database for x86
+
+131. Microsoft.NET.Workload.Emscripten.net7.Manifest (x64) (v72.48.35778)
+
+132. Microsoft .NET Host FX Resolver - 7.0.20 (x64) (v56.80.15184)
+
+133. Microsoft Windows Desktop Targeting Pack - 9.0.7 (x64) (v72.28.35985)
+
+134. NVIDIA Graphics Driver 566.07 (v566.07)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{F734E7EF-31B5-4F24-8494-5219B75FC890}
+
+135. NVIDIA App 11.0.4.159 (v11.0.4.159)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\Display.NvApp.{8F814008-C820-4002-9C9E-AEC02ED54DAD}
+
+136. NVIDIA MessageBus 3 for NvApp (v3.15)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\Display.NvApp.MessageBus.{A5D8BCBF-0D01-4030-BDB7-2E1D998B5C59}
+
+137. NVIDIA Backend (v11.0.4.159)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\Display.NvApp.NvBackend.{8E31C247-5865-4A1C-9F9D-A95AF705CC72}
+
+138. NvCpl (v1.0)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\Display.NvApp.NvCPL.{CF3A3868-242A-4767-9B54-42875EA306A6}
+
+139. NVIDIA PhysX System Software 9.23.1019 (v9.23.1019)
+   Path: C:\Program Files (x86)\NVIDIA Corporation\PhysX
+
+140. NVIDIA FrameView SDK 1.5.10920.35420203 (v1.5.10920.35420203)
+   Path: C:\Program Files\NVIDIA Corporation\FrameViewSDK
+
+141. NVIDIA Install Application (v2.1002.428.0)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore
+
+142. NVIDIA Container (v1.42)
+   Path: C:\Program Files\NVIDIA Corporation\NvContainer
+
+143. NVIDIA AIUser Container (v1.42)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\NvContainer.AIUser.{D8F99F76-6D67-44BC-B239-8984B111BD5F}
+
+144. NVIDIA LocalSystem Container (v1.42)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\NvContainer.LocalSystem.{6EEA5ECC-89C9-4CC4-8745-2AEA6265B627}
+
+145. NVIDIA Session Container (v1.42)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\NvContainer.Session.{645DAF6C-391F-4BDA-B7BE-DAFBF109A0BF}
+
+146. NVIDIA User Container (v1.42)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\NvContainer.User.{87CF7D73-B1E7-4BF3-B3A1-1FDE80991364}
+
+147. NVIDIA NvDLISR (v1.0)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\NvDLISR.{E9679CCA-EF28-4463-A6C1-CE2A4933C326}
+
+148. NVIDIA Platform Controllers and Framework (v560.46)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\NVPCF.{34DCA18C-1A61-4039-9700-96EB50BB50F5}
+
+149. NVIDIA Watchdog Plugin for NvContainer (v1.42)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\NvPlugin.Watchdog.{E93A8629-BCFE-44BB-897A-64A43C91B356}
+
+150. NVIDIA Telemetry Client (v19.4.23.0)
+   Path: C:\Program Files\NVIDIA Corporation\NvTelemetry
+
+151. Nvidia Share (v10.0.2.210)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\OSC.{65EB576A-65D4-42BA-B431-95931BEE38AB}
+
+152. NVIDIA ShadowPlay 11.0.4.0 (v11.0.4.0)
+   Path: C:\Program Files\NVIDIA Corporation\NVIDIA App\ShadowPlay
+
+153. NVIDIA Virtual Audio 4.65.0.3 (v4.65.0.3)
+   Path: C:\Program Files\NVIDIA Corporation\Installer2\VirtualAudio.Driver.{36C8626D-C173-4C8B-B4C3-406982E6B8C2}
+
+154. Oh My Posh (v25.4.3)
+
+155. Microsoft.NET.Sdk.Android.Manifest-8.0.100 (x64) (v34.0.43)
+
+156. vs_minshellinteropx64msi (v17.14.36015)
+
+157. Microsoft .NET Host FX Resolver - 6.0.16 (x64) (v48.67.58427)
+
+158. Microsoft.NET.Workload.Emscripten.Current.Manifest (x64) (v64.24.15173)
+
+159. Go Programming Language amd64 go1.24.1 (v1.24.1)
+
+160. SQL Server 2022 XEvent (v16.0.1000.6)
+
+161. Microsoft .NET AppHost Pack - 8.0.18 (x64_x86) (v64.72.35889)
+
+162. Microsoft SQL Server 2022 Setup (English) (v16.0.1000.6)
+
+163. Neovim (v0.10.4)
+   Path: C:\Program Files\Neovim\
+
+164. VMware Workstation (v17.6.0)
+
+165. SQL Server 2022 Database Engine Services (v16.0.1000.6)
+
+166. Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64) (v18.5.9207)
+
+167. AURA lighting effect add-on x64 (v0.0.45)
+
+168. Microsoft.NET.Workload.Emscripten.net7.Manifest (x64) (v64.24.15173)
+
+169. Microsoft Update Health Tools (v5.72.0.0)
+
+170. Microsoft .NET Runtime - 6.0.16 (x64) (v48.67.58427)
+
+171. Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64) (v64.24.15199)
+
+172. Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030 (v11.0.61030)
+
+173. ASUS Aura SDK (v3.05.06)
+
+174. Microsoft .NET Targeting Pack - 8.0.18 (x64) (v64.72.35889)
+
+175. Microsoft .NET 9.0 Templates 9.0.302 (x64) (v36.9.58467)
+
+176. OpenVPN Connect (v3.4.4)
+
+177. Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64) (v9.0.51)
+
+178. SQL Server 2022 Database Engine Shared (v16.0.1000.6)
+
+179. Microsoft .NET AppHost Pack - 9.0.7 (x64_x86) (v72.28.35968)
+
+180. SQL Server 2022 DMF (v16.0.1000.6)
+
+181. Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64) (v72.0.35968)
+
+182. Microsoft.NET.Workload.Emscripten.net6.Manifest (x64) (v72.48.35778)
+
+183. Microsoft SQL Server 2019 LocalDB (v15.0.4382.1)
+
+184. Microsoft .NET Host - 5.0.17 (x64) (v40.68.31213)
+
+185. Python 3.13.2 Test Suite (64-bit) (v3.13.2150.0)
+
+186. Microsoft Visual Studio Code (v1.100.2)
+   Path: C:\Program Files\Microsoft VS Code\
+
+187. SQL Server 2022 Connection Info (v16.0.1000.6)
+
+188. Microsoft .NET Host - 8.0.6 (x64) (v64.24.15199)
+
+189. Microsoft .NET AppHost Pack - 8.0.18 (x64) (v64.72.35889)
+
+190. Microsoft .NET Host - 7.0.20 (x64) (v56.80.15184)
+
+191. Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64) (v72.0.35968)
+
+192. Microsoft Windows Desktop Runtime - 6.0.31 (x64) (v48.124.15242)
+
+193. Microsoft ASP.NET Core Module V2 for IIS Express (v17.0.22116.0)
+
+194. Node.js (v20.18.0)
+
+195. Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64) (v64.0.5426)
+
+196. Microsoft .NET AppHost Pack - 8.0.18 (x64_arm64) (v64.72.35889)
+
+197. VS Script Debugging Common (v17.0.157.0)
+
+198. Microsoft .NET Runtime - 8.0.6 (x64) (v64.24.15199)
+
+199. IntelliTraceProfilerProxy (v15.0.21225.01)
+
+200. Epic Games Launcher Prerequisites (x64) (v1.0.0.0)
+
+201. Windscribe (v2.12.7)
+   Path: C:\Program Files\Windscribe\
+
+202. Microsoft ASP.NET Core Module for IIS Express (v12.2.18292.0)
+
+203. Visual Studio Community 2022 (v17.14.9 (July 2025))
+   Path: C:\Program Files\Microsoft Visual Studio\2022\Community
+
+204. Brave (v140.1.82.166)
+   Path: C:\Program Files\BraveSoftware\Brave-Browser\Application
+
+205. CLion 2024.1.3 (v241.17890.19)
+   Path: C:\Program Files\JetBrains\CLion 2024.1.3
+
+206. emu8086 microprocessor emulator
+   Path: c:\emu8086\
+
+207. Hubstaff (v1.7.4)
+
+208. JetBrains Rider 2024.1.3 (v241.17011.166)
+   Path: C:\Program Files\JetBrains\JetBrains Rider 2024.1.3
+
+209. Microsoft Edge (v140.0.3485.66)
+   Path: C:\Program Files (x86)\Microsoft\Edge\Application
+
+210. Microsoft Edge WebView2 Runtime (v140.0.3485.66)
+   Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application
+
+211. Nmap 7.97 (v7.97)
+   Path: C:\Program Files (x86)\Nmap
+
+212. Npcap (v1.82)
+   Path: C:\Program Files\Npcap
+
+213. OBS Studio (v30.1.2)
+
+214. PyCharm 2024.2.3 (v242.23339.19)
+   Path: C:\Program Files\JetBrains\PyCharm 2024.2.3
+
+215. qBittorrent (v5.0.3)
+
+216. Rockstar Games Launcher (v1.0.92.2003_S7_R2)
+   Path: C:\Program Files\Rockstar Games\Launcher
+
+217. Rockstar Games Social Club (v2.3.3.1)
+
+218. Steam (v2.10.91.91)
+
+219. Ubisoft Connect (v161.1.11646)
+   Path: C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\
+
+220. Tom Clancy's Rainbow Six Siege
+   Path: C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Tom Clancy's Rainbow Six Siege/
+
+221. Assassin's Creed Unity
+   Path: C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Assassin's Creed Unity/
+
+222. WO Mic Client
+
+223. GameSDK Service (v1.0.5.0)
+
+224. Microsoft .NET Host FX Resolver - 8.0.6 (x86) (v64.24.15199)
+
+225. Microsoft Windows Desktop Runtime - 5.0.17 (x86) (v5.0.17.31219)
+
+226. Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211 (v14.44.35211.0)
+
+227. Microsoft Windows Desktop Runtime - 5.0.17 (x86) (v40.68.31219)
+
+228. Microsoft Windows Desktop Runtime - 8.0.6 (x86) (v64.24.15241)
+
+229. Microsoft ASP.NET Core 8.0.18 Shared Framework (x86) (v8.0.18.25317)
+
+230. Microsoft .NET Framework 4.7.2 Targeting Pack (v4.7.03062)
+
+231. vs_CoreEditorFonts (v17.7.40001)
+
+232. vs_clickoncebootstrappermsi (v17.14.36015)
+
+233. vs_tipsmsi (v17.14.36015)
+
+234. Microsoft Windows Desktop Runtime - 6.0.31 (x64) (v6.0.31.33720)
+
+235. Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU) (v4.8.09037)
+
+236. AURA lighting effect add-on (v0.0.45)
+
+237. Microsoft Windows Desktop Runtime - 5.0.17 (x64) (v5.0.17.31219)
+
+238. vs_filehandler_amd64 (v17.14.36024)
+
+239. Entity Framework 6.5.0 Tools  for Visual Studio 2022 (v6.5.0.0)
+
+240. vs_communitymsires (v17.14.36015)
+
+241. vs_githubprotocolhandlermsi (v17.14.36015)
+
+242. ASUS Aac_NBDT HAL (v2.5.30.0)
+
+243. Visual Studio 2017 Isolated Shell for SSMS (v15.0.28307.421)
+
+244. Microsoft .NET Runtime - 6.0.16 (x64) (v6.0.16.32323)
+
+245. ASUS Framework Service (v4.2.2.8)
+   Path: C:\Program Files (x86)\ASUS\ArmouryDevice
+
+246. Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 (v11.0.61030.0)
+
+247. Microsoft Windows Desktop Runtime - 7.0.20 (x64) (v7.0.20.33720)
+
+248. icecap_collectionresourcesx64 (v17.14.36015)
+
+249. Microsoft ASP.NET Core 9.0.7 Shared Framework (x86) (v9.0.7.25317)
+
+250. Microsoft .NET Runtime - 6.0.31 (x86) (v48.124.15198)
+
+251. Launcher Prerequisites (x64) (v1.0.0.0)
+
+252. Microsoft Visual Studio Setup WMI Provider (v3.12.2140.44225)
+
+253. AURA Service (v3.08.18)
+
+254. Microsoft .NET Runtime - 7.0.20 (x86) (v56.80.15184)
+
+255. vs_clickoncesigntoolmsi (v17.14.36015)
+
+256. Microsoft Windows Desktop Targeting Pack - 8.0.18 (x86) (v64.72.35986)
+
+257. Epic Online Services (v2.8.1)
+
+258. vs_minshellinteropsharedmsi (v17.14.36015)
+
+259. Microsoft .NET Host - 5.0.17 (x86) (v40.68.31213)
+
+260. Microsoft Windows Desktop Runtime - 6.0.31 (x86) (v48.124.15242)
+
+261. AURA Service (v3.08.18)
+
+262. Microsoft SQL Server Management Studio - 20.1 (v20.1.10.0)
+
+263. Microsoft .NET Runtime - 5.0.17 (x86) (v40.68.31213)
+
+264. Microsoft .NET Host - 7.0.20 (x86) (v56.80.15184)
+
+265. REDRAGON Gaming Mouse (v1.0.58)
+   Path: C:\Program Files (x86)\REDRAGON Gaming Mouse\
+
+266. UPDF_Win version 1.0.7.0 (v1.0.7.0)
+   Path: C:\Program Files (x86)\UPDF_Win\
+
+267. Microsoft .NET Host - 9.0.7 (x86) (v72.28.35968)
+
+268. icecap_collectionresources (v17.14.36015)
+
+269. vs_filehandler_x86 (v17.14.36024)
+
+270. Microsoft Windows Desktop Runtime - 8.0.6 (x86) (v8.0.6.33720)
+
+271. vs_communitysharedmsi (v17.14.36025)
+
+272. GameSDK Service (v1.0.5.0)
+
+273. Microsoft .NET Host - 6.0.31 (x86) (v48.124.15198)
+
+274. Microsoft TestPlatform SDK Local Feed (v17.10.0.9037153)
+
+275. Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 (v12.0.40664)
+
+276. Microsoft .NET Host - 8.0.6 (x86) (v64.24.15199)
+
+277. ASUS Smart Display Control (v2.10.0)
+
+278. Microsoft .NET Targeting Pack - 8.0.18 (x86) (v64.72.35889)
+
+279. Microsoft Windows Desktop Runtime - 8.0.18 (x86) (v64.72.35986)
+
+280. Microsoft Analysis Services OLE DB Provider (v16.0.5143.0)
+
+281. SSMS Post Install Tasks (v20.1.10.0)
+
+282. Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211 (v14.44.35211)
+
+283. Microsoft Windows Desktop Runtime - 8.0.6 (x64) (v8.0.6.33720)
+
+284. Microsoft .NET Framework 4.8 SDK (v4.8.03928)
+
+285. vs_vswebprotocolselectormsi (v17.14.36015)
+
+286. vs_BlendMsi (v17.14.36015)
+
+287. Microsoft .NET Host FX Resolver - 7.0.20 (x86) (v56.80.15184)
+
+288. vs_clickoncebootstrappermsires (v17.14.36015)
+
+289. Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 (v12.0.40664.0)
+
+290. SQL Server Management Studio (v20.1.10.0)
+
+291. Microsoft .NET Runtime - 9.0.7 (x86) (v72.28.35968)
+
+292. ASUS Ambient HAL (v5.7.0.0)
+
+293. Microsoft .NET Framework 4.8 Targeting Pack (ENU) (v4.8.03761)
+
+294. Microsoft .NET Targeting Pack - 9.0.7 (x86) (v72.28.35968)
+
+295. ASUS Update Helper (v1.3.107.141)
+
+296. Microsoft Windows Desktop Runtime - 6.0.31 (x86) (v6.0.31.33720)
+
+297. AI Noise Cancelation Audio Software (v3.1.4)
+
+298. Microsoft .NET Host FX Resolver - 5.0.17 (x86) (v40.68.31213)
+
+299. Microsoft Windows Desktop Runtime - 7.0.20 (x86) (v7.0.20.33720)
+
+300. Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 (v11.0.61030)
+
+301. vs_devenvsharedmsi (v17.14.36015)
+
+302. Microsoft .NET Framework 4.7.2 Targeting Pack (ENU) (v4.7.03062)
+
+303. Microsoft .NET Framework 4.8 Targeting Pack (v4.8.03761)
+
+304. icecap_collection_neutral (v17.14.36015)
+
+305. Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 (v11.0.61030)
+
+306. ClickOnce Bootstrapper Package for Microsoft .NET Framework (v4.8.09256)
+
+307. VS Immersive Activate Helper (v17.0.157.0)
+
+308. Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211 (v14.44.35211)
+
+309. Microsoft ASP.NET Core 8.0.18 Targeting Pack (x86) (v8.0.18.25317)
+
+310. ASUS Aac_GmAcc HAL (v1.0.12.0)
+
+311. Epic Games Launcher (v1.3.128.0)
+   Path: C:\Program Files (x86)\Epic Games\
+
+312. Python Launcher (v3.13.2150.0)
+
+313. vcpp_crt.redist.clickonce (v14.44.35211)
+
+314. IntelliTraceProfilerProxy (v15.0.21225.01)
+
+315. Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 (v11.0.61030.0)
+
+316. Microsoft Windows Desktop Targeting Pack - 9.0.7 (x86) (v72.28.35985)
+
+317. Microsoft Visual Studio Setup Configuration (v3.12.2140.44225)
+
+318. vs_SQLClickOnceBootstrappermsi (v17.14.36015)
+
+319. Microsoft Windows Desktop Runtime - 7.0.20 (x86) (v56.80.15245)
+
+320. vs_FileTracker_Singleton (v17.14.36015)
+
+321. Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 (v12.0.40664)
+
+322. Microsoft ASP.NET Core 9.0.7 Targeting Pack (x86) (v9.0.7.25317)
+
+323. Microsoft ASP.NET Diagnostic Pack for Visual Studio (v17.14.119.50502)
+
+324. Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211 (v14.44.35211.0)
+
+325. Microsoft .NET Runtime - 8.0.6 (x86) (v64.24.15199)
+
+326. Microsoft Windows Desktop Runtime - 9.0.7 (x86) (v72.28.35985)
+
+327. Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support (v16.0.31110)
+
+328. vs_minshellmsires (v17.14.36015)
+
+329. Microsoft .NET Runtime - 8.0.18 (x86) (v64.72.35889)
+
+330. Microsoft .NET SDK 8.0.302 (x64) (v8.3.224.28002)
+
+331. Integration Services (v16.0.5491.4)
+
+332. SQL Server Management Studio Language Pack - English (v20.1.10.0)
+
+333. Microsoft .NET Host FX Resolver - 9.0.7 (x86) (v72.28.35968)
+
+334. Microsoft Visual Studio Tools for Applications 2019 (v16.0.31110)
+
+335. vs_minshellsharedmsi (v17.14.36024)
+
+336. Aura Wallpaper HTML (v2.1.6.0)
+
+337. Browser for SQL Server 2022 (v16.0.1000.6)
+
+338. Microsoft .NET Host FX Resolver - 6.0.31 (x86) (v48.124.15198)
+
+339. Redragon M612RGB-PRO version 1.0.0.4 (v1.0.0.4)
+   Path: C:\Program Files (x86)\Redragon M612RGB-PRO\
+
